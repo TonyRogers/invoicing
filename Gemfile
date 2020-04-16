@@ -19,5 +19,5 @@ gem "database_cleaner", "~> 1.0.1"
 
 gem "coveralls", "~> 0.7.0", require: false
 #
-gem 'rails', '~> 5.2.3'
+gem 'rails', '~> 5.2.4'
 gem 'sqlite3', '~> 1.3.13'
